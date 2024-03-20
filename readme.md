@@ -22,3 +22,22 @@ console.log(Math.round(-1.6));
 //-1
 ```
 # isNaN() function checks if a value isNaN (Not-a-Number) or not.
+
+``` JavaScript
+console.log(3**4);
+console.log(Math.pow(3,4));
+//3 raised to the power of 4 = 3*3*3*3
+```
+___
+``` JavaScript
+console.log(Math.sqrt(81));
+console.log(Math.pow(81,1/2));
+
+console.log(Math.sqrt(111));
+console.log(Math.sqrt("36"));
+
+9
+9
+10.535653752852738
+6
+```
